@@ -390,6 +390,7 @@ body {
 }
 .div-overlay {
   position: relative;
+  overflow: hidden;
 }
 .portfolio-overlay {
   position: absolute;
