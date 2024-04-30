@@ -475,10 +475,15 @@ body {
   align-items: center;
   justify-content: center;
 }
-.footer-icons-link:hover,
+.footer-icons-link:hover {
+  background-color: #31d0aa;
+}
 .footer-icons-link:focus {
   background-color: #31d0aa;
 }
 .logo-footer-container {
   margin-right: 120px;
+}
+.svg-footer-icons {
+  fill: #f4f4fd;
 }
